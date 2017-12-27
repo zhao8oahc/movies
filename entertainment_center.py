@@ -49,6 +49,7 @@ zootopia = media.Movie(
                        "https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg# NOQA",
                        "https://www.youtube.com/watch?v=bY73vFGhSVk")
 
+"""Put all the instances into a list, and get them into a website."""
 movies = [
         shawshank_redemption, titanic, life_is_beautiful,
         fantasia, beauty_and_the_beast, zootopia]
